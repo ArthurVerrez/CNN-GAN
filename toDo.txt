@@ -1,0 +1,1 @@
+Lancer tout d'abord le Jupyter Notebook pose_perparation.ipynb
